@@ -1,0 +1,17 @@
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\GraphStructure.dll
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\GraphStructure.pdb
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\Common.dll
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\nunit.framework.dll
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\Common.pdb
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\nunit.framework.xml
+G:\Staffico\GraphMap\GraphStructure\obj\Debug\GraphStructure.csprojResolveAssemblyReference.cache
+G:\Staffico\GraphMap\GraphStructure\obj\Debug\GraphStructure.dll
+G:\Staffico\GraphMap\GraphStructure\obj\Debug\GraphStructure.pdb
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\Newtonsoft.Json.dll
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\Newtonsoft.Json.xml
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\GraphStructure.dll.config
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\Neo4jClient.dll
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\Neo4jClient.pdb
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\Neo4jClient.xml
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\QuickGraph.dll
+G:\Staffico\GraphMap\GraphStructure\bin\Debug\QuickGraph.xml

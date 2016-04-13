@@ -1,0 +1,16 @@
+G:\Staffico\GraphMap\Common\bin\Debug\Common.dll
+G:\Staffico\GraphMap\Common\bin\Debug\Common.pdb
+G:\Staffico\GraphMap\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+G:\Staffico\GraphMap\Common\obj\Debug\Common.dll
+G:\Staffico\GraphMap\Common\obj\Debug\Common.pdb
+G:\Staffico\GraphMap\Common\bin\Debug\Neo4jClient.dll
+G:\Staffico\GraphMap\Common\bin\Debug\Newtonsoft.Json.dll
+G:\Staffico\GraphMap\Common\bin\Debug\nunit.framework.dll
+G:\Staffico\GraphMap\Common\bin\Debug\Neo4jClient.pdb
+G:\Staffico\GraphMap\Common\bin\Debug\Neo4jClient.xml
+G:\Staffico\GraphMap\Common\bin\Debug\Newtonsoft.Json.xml
+G:\Staffico\GraphMap\Common\bin\Debug\nunit.framework.xml
+G:\Staffico\GraphMap\Common\bin\Debug\QuickGraph.dll
+G:\Staffico\GraphMap\Common\bin\Debug\QuickGraph.Graphviz.dll
+G:\Staffico\GraphMap\Common\bin\Debug\QuickGraph.xml
+G:\Staffico\GraphMap\Common\bin\Debug\QuickGraph.Graphviz.xml

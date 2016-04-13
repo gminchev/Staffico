@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphMap", "GraphMap\GraphMap.csproj", "{2835FDBA-96BA-4D5C-850D-A909BB12F4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphStructure", "GraphStructure\GraphStructure.csproj", "{323DFEC1-8E98-40F6-92AF-6705C1BAD3D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{5F927737-46F4-43CE-9DC5-A174C05D22A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2835FDBA-96BA-4D5C-850D-A909BB12F4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2835FDBA-96BA-4D5C-850D-A909BB12F4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2835FDBA-96BA-4D5C-850D-A909BB12F4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2835FDBA-96BA-4D5C-850D-A909BB12F4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323DFEC1-8E98-40F6-92AF-6705C1BAD3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323DFEC1-8E98-40F6-92AF-6705C1BAD3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323DFEC1-8E98-40F6-92AF-6705C1BAD3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323DFEC1-8E98-40F6-92AF-6705C1BAD3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F927737-46F4-43CE-9DC5-A174C05D22A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F927737-46F4-43CE-9DC5-A174C05D22A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F927737-46F4-43CE-9DC5-A174C05D22A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F927737-46F4-43CE-9DC5-A174C05D22A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
